@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 500;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+body{
+    background-color: #f6f6f6;
+}
+.home {
+    background-image: url(../photos/home.jpg);
+    background-size: cover;
+    height: 96.5vh; 
+    
+}
+.title {
+    margin: 75px;
+    margin-top: 25px;
+}
+.portfolio {
+    font-family: 'Courgette', cursive;
+    font-size: 45px;
+}
+.name {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 100px;
+    font-weight: 100;
+    margin-top: 100px;
+}
+.comp {
+    margin:150px 0 0 50px;
+    padding: 25px;
+    height: 100px;
+    width: max-content;
+    background: #f6f6f6;
+    border-radius: 2rem;
+    border-style: solid;
+    border: 3;
+    border-color: #636363;
+}
+.com {
+    height:100% ;
+    margin: 0 25px 0 25px;
+    
+}
+
+.ph img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+
+}
+.history {
+    text-align: center;
+    padding: 20px;
+}
+.happened {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.date {
+    border-radius: 1rem;
+    border-style: solid;
+    border: 1;
+    border-color: #000000;
+    background: #DE5C15 ;
+    width: 20%;
+    margin: 15px auto;
+    padding: 5px;
+    box-shadow: 5px 5px 20px #000000;
+
+}
+.hph {
+    width: 200px;
+    position: absolute;
+    margin: -50px 0 0 0;
+    border-radius: 1rem;
+    border-color: #DE5C15;
+    border-style: groove;
+    border: 3;
+}
+.ir {
+    right:100px;
+}
+.il {
+    left:100px;
+}
+.arrow {
+    width: 60px;
+    margin: 25px auto;
+}
